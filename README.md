@@ -7,7 +7,7 @@
 
 <h3>
   
-  [Pertemuan 1](/Pertemuan-1) <br>
-  [Pertemuan 3](/Pertemuan-2/README.md)
+  [Pertemuan 1](/Pertemuan-1) <br><br>
+  [Pertemuan 3](/Pertemuan-2)
   
 </h3>
