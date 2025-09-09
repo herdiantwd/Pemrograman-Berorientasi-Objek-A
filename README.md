@@ -8,5 +8,6 @@
 <h3>
   
   [Pertemuan 1](/Pertemuan-1)
+  [Pertemuan 3](/Pertemuan-3)
   
 </h3>
