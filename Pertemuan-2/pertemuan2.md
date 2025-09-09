@@ -24,7 +24,7 @@ dalam method ini , jika kita tidak memiliki _balance_ yang cukup sesuai harga ya
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | ![Foto 3](https://github.com/user-attachments/assets/fc436f2f-6a4b-46ca-b0d4-08909f68992b) | ![Foto 4](https://github.com/user-attachments/assets/72cb9092-ffc4-411b-996f-87dfd5702320) |
 
-Source code : [source code](TicketMachine.)
+Source code : [source code](TicketMachine.java)
 
 
 
