@@ -1,4 +1,4 @@
-# Pratice Grouping Object
+# Practice Grouping Object
 
 Pada pertemuan ke-5 ini, saya diberikan latihan utnuk membuat sebuah sistem sederhana tentang pengambilan mata kuliah. Lalu pada hasil latihan saya, diisi 4 class yaitu `Dosen`, `Mahasiswa`, `MataKuliah`, dan `Main` class untuk menghubungkan semuanya.
 
