@@ -6,7 +6,7 @@ Dokumentasi :
 
 **`Main`**
 
-```
+```java
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -79,7 +79,7 @@ public class Main
 
 **`MataKuliah`**
 
-```
+```java
 import java.util.*;
 
 public class MataKuliah {
@@ -158,7 +158,7 @@ public class MataKuliah {
 
 **`Dosen`**
 
-```
+```java
 import java.util.*;
 
 public class Dosen{
@@ -176,7 +176,7 @@ public class Dosen{
 
 **`Mahasiswa`**
 
-```
+```java
 import java.util.*;
 
 public class Mahasiswa
