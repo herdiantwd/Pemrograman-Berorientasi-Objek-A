@@ -14,5 +14,7 @@
 [Pertemuan 4](/Pertemuan%204)
   
 [Pertemuan 5](/Pertemuan-5)
+
+[Pertemuan 6](/Pertemuan-6)
   
 </h3>
