@@ -1,6 +1,6 @@
-# Projek Vending Coffe
+# Proyek Vending Coffe
 
-Pada ETS kali ini diberikan sebuah projek tentang Vending Coffe.
+Pada ETS kali ini diberikan sebuah proyek tentang Vending Coffe.
 <br>
 
 Untuk fitur-fitur yang saya buat terdapat 2 menu utama yaitu :
