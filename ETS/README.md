@@ -17,7 +17,7 @@ Untuk fitur-fitur yang saya buat terdapat 3 menu utama yaitu :
 
    Lalu lanjut memilih ukuran, memasukkan saldo, lalu status berhasil/tidak
    
-   <img width="981" height="691" alt="image" src="https://github.com/user-attachments/assets/4a9853fd-9378-4e4f-8ea1-a5d0fdb10344" />
+   <img width="641" height="500" alt="image" src="https://github.com/user-attachments/assets/4a9853fd-9378-4e4f-8ea1-a5d0fdb10344" />
 
 2. Mode Admin
    Mode ini menambah jumlah stok dan melihat riwayat transaksi. Untuk memasuki mode ini saya bentuk membutuhkan sebuah password. Pada projek ini saya set
@@ -25,11 +25,11 @@ Untuk fitur-fitur yang saya buat terdapat 3 menu utama yaitu :
 
    Contoh menambah jumlah stok
 
-   <img width="834" height="514" alt="image" src="https://github.com/user-attachments/assets/b31e1e48-32d4-4ec8-a102-8eac34904eae" />
+   <img width="641" height="500" alt="image" src="https://github.com/user-attachments/assets/b31e1e48-32d4-4ec8-a102-8eac34904eae" />
 
    Contoh meilhat riwayat transaksi :
 
-   <img width="937" height="223" alt="image" src="https://github.com/user-attachments/assets/34386405-ba13-4c02-ab09-1d73ca69f10b" />
+   <img width="641" height="500" alt="image" src="https://github.com/user-attachments/assets/34386405-ba13-4c02-ab09-1d73ca69f10b" />
 
    
 <br>
