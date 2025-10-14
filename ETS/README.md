@@ -108,7 +108,6 @@ public class Transaksi
     private int harga;
     private String namaKopi;
     private String ukuranKopi;
-    private String gulaKopi;
     private String status;
 
     public Transaksi(String namaKopi, String ukuranKopi,int harga)
@@ -277,7 +276,7 @@ public class Main
         MesinKopi mch = new MesinKopi();
         
         mch.tambahStok(new Product(1, "Cappucino", 15000, 5));
-        mch.tambahStok(new Product(2, "Americano", 17000, 3));
+        mch.tambahStok(new Product(2, "Americano", 17000, 1));
         mch.tambahStok(new Product(3, "Kopi Aren", 16000, 10));
         
         mch.tambahUkuran(new TambahanUkuran(1, "Kecil", 0));
@@ -308,8 +307,10 @@ public class Main
                 int idukuran = sc.nextInt();
                 TambahanUkuran tu = mch.pilihUkuran(idukuran);
                 
+                int totalHarga = p.getHarga() + tu.getHarga();
                 System.out.println("Anda memilih: " + p.getNama() + " (Rp. " + p.getHarga() + ", Ukuran : " + tu.getUkuran() + ", RP. " + tu.getHarga() + ")");
-                System.out.print("Masukkan uang Anda: Rp");
+                System.out.print("Total Harga: Rp. " + totalHarga);
+                System.out.print("\nMasukkan uang Anda: Rp");
                 int uang = sc.nextInt();
 
                 mch.masukkanSaldo(uang);
