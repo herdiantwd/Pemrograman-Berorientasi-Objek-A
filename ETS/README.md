@@ -9,7 +9,9 @@ Pada ETS kali ini diberikan sebuah projek tentang Vending Coffe dengan ketentuan
 5. Buatlah Video Presentasi yang menjelaskan pekerjaanmu kemudian upload di Youtube
 6. Buat Dokumentasi pengerjaan di blog, kemudian isi google form  Link Pengumpulan ETS
 
-Untuk fitur-fitur yang saya buat terdapat 3 menu utama yaitu :
+<br>
+
+Untuk fitur-fitur yang saya buat terdapat 2 menu utama yaitu :
 1. Beli Produk
    Dalam fitur ini, diberikan pilihan kopi yang telah dimasukkan
 
@@ -37,7 +39,7 @@ Untuk fitur-fitur yang saya buat terdapat 3 menu utama yaitu :
 
 Gambar rancangan Class
 
-<img width="979" height="737" alt="image" src="https://github.com/user-attachments/assets/5d4149ce-0d69-4f7d-afcf-b34e69278f31" />
+<img width="641" height="500" alt="image" src="https://github.com/user-attachments/assets/5d4149ce-0d69-4f7d-afcf-b34e69278f31" />
 
 
 
