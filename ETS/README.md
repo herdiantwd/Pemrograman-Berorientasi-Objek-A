@@ -120,7 +120,7 @@ public class Transaksi
 
     public String toString()
     {
-        return "[" + tgl + "]" + "--" + namaKopi + "(" + ukuranKopi + ")" + " Total : Rp. " + harga;
+        return "[" + tgl + "]" + " -- " + namaKopi + " ( Ukuran : " + ukuranKopi + ")" + " Total : Rp. " + harga;
     }
 }
 ```
