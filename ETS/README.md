@@ -33,7 +33,9 @@ Gambar rancangan Class
 
 <img width="641" height="500" alt="image" src="https://github.com/user-attachments/assets/5d4149ce-0d69-4f7d-afcf-b34e69278f31" />
 
-Code :
+<br>
+
+## Code
 
 Product
 ```java
