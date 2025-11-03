@@ -305,9 +305,10 @@ public class SalesItemTest {
 }
 ```
 
-Untuk unit testingnya, disini digunakan jenis Item Laptop dengan harga 15.000.000 menggunakan `@before` yang terdapat pada framework `JUnit`
-ex. 
-Pada contoh Test 2
+Untuk unit testingnya, disini digunakan jenis Item Laptop dengan harga 15.000.000 menggunakan `@before` yang terdapat pada framework `JUnit` <br>
+
+Contoh : <br> 
+Pada contoh Test 2 <br>
 Disitu mengetes apakah untuk bagian duplikat comment sesuai dengan aturan yang ada. Hasilnya dikarenakan harus gagal, maka digunakan assertFalse untuk menyimpannya. Lalu dilanjutkan commentnya dibandingkan lagi berdasarkan totalnya yang harus sama dengan 1.
 
 ## Dokumentasi
