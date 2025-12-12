@@ -1,4 +1,4 @@
-# Tentrix Game (Final Praktikum PBO A2)
+# Tentrix Game 
 
 
 ### Anggota Kelompok 
