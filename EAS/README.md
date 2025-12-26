@@ -220,5 +220,6 @@ Total Score didapatkan dari seberapa banyak grid yang kita pilih dalam mendapatk
 
 ## Demo 
 
+[Demo](https://youtu.be/queQPgfjBMc)
 
 
